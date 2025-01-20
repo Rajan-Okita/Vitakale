@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488372539148",
+    "project_id": "vitakale-e5722",
+    "storage_bucket": "vitakale-e5722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488372539148:android:68ef44b2332329119a4329",
+        "android_client_info": {
+          "package_name": "com.example.vitakale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuqbhhE-C8m1F3hEKsKlow01lEIOSeBu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

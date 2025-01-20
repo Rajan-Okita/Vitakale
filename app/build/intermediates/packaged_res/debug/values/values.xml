@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#8BC34A</color>
+    <color name="background">#F1F8E9</color>
+    <color name="error">#D32F2F</color>
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#388E3C</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_on_error">#FFFFFF</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <string name="app_name">VitaKale</string>
+    <string name="gcm_defaultSenderId" translatable="false">488372539148</string>
+    <string name="google_api_key" translatable="false">AIzaSyCuqbhhE-C8m1F3hEKsKlow01lEIOSeBu0</string>
+    <string name="google_app_id" translatable="false">1:488372539148:android:68ef44b2332329119a4329</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCuqbhhE-C8m1F3hEKsKlow01lEIOSeBu0</string>
+    <string name="google_storage_bucket" translatable="false">vitakale-e5722.appspot.com</string>
+    <string name="project_id" translatable="false">vitakale-e5722</string>
+    <style name="CustomButton" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/text_on_primary</item>
+    </style>
+    <style name="CustomEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:backgroundTint">@color/accent</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textColorHint">@color/text_secondary</item> 
+    </style>
+    <style name="Theme.VitaKale" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+
+        
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+
+        
+        <item name="android:buttonStyle">@style/CustomButton</item>
+        <item name="android:editTextStyle">@style/CustomEditText</item>
+    </style>
+</resources>
