@@ -12,10 +12,10 @@ Vitakale is a mobile application designed to assist farmers and agricultural pro
 To install Vitakale on your Android device:​
 
 * Clone the repository:​
-<pre> ``` git clone https://github.com/Rajan-Okita/Vitakale.git ``` </pre>
+<pre>  git clone https://github.com/Rajan-Okita/Vitakale.git  </pre>
 
 * Navigate to the project directory:​
-<pre> ``` cd Vitakale ``` </pre>
+<pre>  cd Vitakale  </pre>
 
 * Open the project in Android Studio.​
 
