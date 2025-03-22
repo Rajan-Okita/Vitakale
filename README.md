@@ -1,17 +1,17 @@
-Vitakale
+# Vitakale
 Vitakale is a mobile application designed to assist farmers and agricultural professionals in identifying diseases affecting kale crops. By leveraging image recognition technology, Vitakale aims to promote healthier crops and improve yields.
 
-Features
-Disease Identification: Users can capture images of their kale plants, and the app analyzes these images to detect potential diseases.​
+## Features
+* Disease Identification: Users can capture images of their kale plants, and the app analyzes these images to detect potential diseases.​
 
-Comprehensive Database: Access detailed information on various kale diseases, including symptoms, causes, and recommended treatments.​
+* Comprehensive Database: Access detailed information on various kale diseases, including symptoms, causes, and recommended treatments.​
 
-User-Friendly Interface: Designed with simplicity in mind, Vitakale ensures that users can navigate the app with ease.​
+* User-Friendly Interface: Designed with simplicity in mind, Vitakale ensures that users can navigate the app with ease.​
 
-Installation
+## Installation
 To install Vitakale on your Android device:​
 
-Clone the repository:​
+* Clone the repository:​
 
 bash
 Copy
