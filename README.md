@@ -12,28 +12,22 @@ Vitakale is a mobile application designed to assist farmers and agricultural pro
 To install Vitakale on your Android device:​
 
 * Clone the repository:​
+<pre> ```bash git clone https://github.com/Rajan-Okita/Vitakale.git ``` </pre>
 
-bash
-Copy
-Edit
-git clone https://github.com/Rajan-Okita/Vitakale.git
-Navigate to the project directory:​
+* Navigate to the project directory:​
+<pre> ```bash cd Vitakale ``` </pre>
 
-bash
-Copy
-Edit
-cd Vitakale
-Open the project in Android Studio.​
+* Open the project in Android Studio.​
 
-Connect your Android device or start an emulator.​
+* Connect your Android device or start an emulator.​
 
-Build and run the application.​
+* Build and run the application.​
 
-Usage
-Open the Vitakale app on your device.​
+## Usage
+* Open the Vitakale app on your device.​
 
-Use the camera feature to take a clear photo of the kale plant.​
+* Use the camera feature to take a clear photo of the kale plant or also upload from gallery.​
 
-The app will process the image and provide a diagnosis of any detected diseases.​
+* The app will process the image and provide a diagnosis of any detected diseases.​
 
-Review the suggested treatments and best practices to address the identified issues.
+* Review the suggested treatments and best practices to address the identified issues.
